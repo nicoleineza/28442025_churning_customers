@@ -3,7 +3,7 @@
 This repository contains an implementation of a Multi-Layer Perceptron (MLP) model for predicting customer turnover using TensorFlow's Functional API. The model is intended to analyse customer data and forecast whether or not a customer is going to churn.
 ## link to the model: 
 http://agent-connectapp.herokuapp.com/predictChurn/
-##Video demonstrating model perfomance
+##Video demonstrating model perfomance: https://youtu.be/CsJMclQKKFM
 
 ## Dependencies
   -Python 3.x
