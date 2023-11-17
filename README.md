@@ -4,14 +4,15 @@ This repository contains an implementation of a Multi-Layer Perceptron (MLP) mod
 ## link to the model: http://agent-connectapp.herokuapp.com/predictChurn/
 
 ## Dependencies
-  Python 3.x
-  TensorFlow 2.x
-  NumPy
-  Pandas
-  Seaborn 
-  Matplotlib (for visualization)
-  Scikit-learn (for evaluation metrics)
-  # DATASET: https://drive.google.com/file/d/1deqC-VzcKNvTIrGcXO3nGEfJ5_Gzyl0S/view?usp=sharing
+  -Python 3.x
+  -TensorFlow 2.x
+  -NumPy
+  -Pandas
+  -Seaborn 
+  -Matplotlib (for visualization)
+  -Scikit-learn (for evaluation metrics)
+  # DATASET: 
+  https://drive.google.com/file/d/1deqC-VzcKNvTIrGcXO3nGEfJ5_Gzyl0S/view?usp=sharing
   
   ## What does the model do
   using this model a user enters values for a customer profile and the model predicts whether the customer will churn or not
